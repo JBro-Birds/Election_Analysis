@@ -28,4 +28,4 @@ The purpose of this project is to complete the additional request made by the el
 ## Election Audit Summary
 
 ### Re-use of this script for future election audits
-This script provided for this election audit can be used for future election audits with some modifications.  
+This script provided for this election audit can be used for future election audits with some modifications.  One modification would be providing the 
