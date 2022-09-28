@@ -16,6 +16,14 @@ The purpose of this project is to complete the additional request made by the el
   * Denver: 82.8% (306,055)
   * Arapahoe: 6.7% (24,801)
 
+* Denver County had the largest number of votes.
+
+* The number of votes and the percentage of the total votes each candidate received is as follows:
+  * Charles Casper Stockham: 23.0% (85,213)
+  * Diana DeGette: 73.8% (272,892)
+  * Raymon Anthony Doane: 3.1% (11,606)
+
+
 ### Original Script Runtimes
 The original script runtimes for 2017 and 2018 are as follows:
 
