@@ -12,9 +12,9 @@ The purpose of this project is to complete the additional request made by the el
 * 369,711 votes were cast in the congressional election.
 
 * The number of votes and the percentage of total votes for each county in the precinct is as follows:
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
+  * Jefferson: 10.5% (38,855)
+  * Denver: 82.8% (306,055)
+  * Arapahoe: 6.7% (24,801)
 
 ### Original Script Runtimes
 The original script runtimes for 2017 and 2018 are as follows:
