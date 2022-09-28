@@ -23,30 +23,8 @@ The purpose of this project is to complete the additional request made by the el
   * Diana DeGette: 73.8% (272,892)
   * Raymon Anthony Doane: 3.1% (11,606)
 
+* The winner of the election was Diana DeGette who had 272,892 votes which equated to 73.8% of the total votes.
 
-### Original Script Runtimes
-The original script runtimes for 2017 and 2018 are as follows:
-
-#### 2017
-![2017 Stocks - Original Script](https://raw.githubusercontent.com/JBro-Birds/stock-analysis/master/Resources/VBA_Challenge_2017_OriginalScript.png)
-
-#### 2018
-![2018 Stocks - Original Script](https://raw.githubusercontent.com/JBro-Birds/stock-analysis/master/Resources/VBA_Challenge_2018_OriginalScript.png)
-
-
-
-
-
-
-### Refactored Script Runtimes
-
-#### 2017
-![2017 Stocks - Refactored Script](https://raw.githubusercontent.com/JBro-Birds/stock-analysis/master/Resources/VBA_Challenge_2017_RefactoredScript.png)
-
-#### 2018
-![2018 Stocks - Refactored Script](https://raw.githubusercontent.com/JBro-Birds/stock-analysis/master/Resources/VBA_Challenge_2018_RefactoredScript.png)
-
-
-## Summary
+## Election Audit Summary
 
 ### Advantages and disadvantages of refactoring code in general
