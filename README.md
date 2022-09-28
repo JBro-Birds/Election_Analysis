@@ -28,4 +28,12 @@ The purpose of this project is to complete the additional request made by the el
 ## Election Audit Summary
 
 ### Re-use of this script for future election audits
-This script provided for this election audit can be used for future election audits with some modifications.  One modification would be to include the time period (month/year) to the election_results.CSV and election_results.txt file names in order to better organize the result files.  The script can be updated for each election period by editing the file names .CSV and .txt file names so the reader and write functions know the corresponding file to use and the .txt file analysis output can include the "time period" as part of the title row such as "Election Results - month/year".  'f"\nElection Results\n"
+This script provided for this election audit can be used for future election audits with some modifications.  One modification would be to include the time period (month/year) to the election_results.CSV and election_results.txt file names in order to better organize the result files.  The script can be updated for each election period by editing the file names .CSV and .txt file names so the reader and write functions know the corresponding file to use.  The update would be needed in the following:
+`# Add a variable to load a file from a path.
+file_to_load = os.path.join("Resources", "election_results.csv")
+# Add a variable to save the file to a path.
+file_to_save = os.path.join("analysis", "election_results.txt")`
+
+and the .txt file analysis output can include the "time period" as part of the title row such as "Election Results - month/year".  'f"\nElection Results\n"
+
+
