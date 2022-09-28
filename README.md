@@ -31,6 +31,6 @@ The purpose of this project is to complete the additional request made by the el
 This script provided for this election audit can be used for future election audits with some modifications.  One modification would be to include the time period (month/year) to the election_results.CSV and election_results.txt file names in order to better organize the result files.  The script can be updated for each election period run by editing the file names .CSV and .txt file names so the reader and write functions know the corresponding file to use.  The update would be needed in the following lines of code:
 `file_to_load = os.path.join("Resources", "election_results.csv")`
 `file_to_save = os.path.join("analysis", "election_results.txt")`
-In addition the .txt file analysis output can include the "time period" as part of the "Election Results" title row by including the "month/year" after the "Election Results" string in the following print code: 'f"\nElection Results\n"
+In addition the .txt file analysis output can include the "time period" as part of the "Election Results" title row by including the "month/year" after the "Election Results" string in the following print code: `f"\nElection Results\n"`
 
 
