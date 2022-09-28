@@ -23,8 +23,9 @@ The purpose of this project is to complete the additional request made by the el
   * Diana DeGette: 73.8% (272,892)
   * Raymon Anthony Doane: 3.1% (11,606)
 
-* The winner of the election was Diana DeGette who had 272,892 votes which equated to 73.8% of the total votes.
+* The winner of the election is Diana DeGette who has 272,892 votes which equates to 73.8% of the total votes.
 
 ## Election Audit Summary
 
-### Advantages and disadvantages of refactoring code in general
+### Re-use of this script for future election audits
+This script provided for this election audit can be used for future election audits with some modifications.  
