@@ -33,4 +33,4 @@ This script provided for this election audit can be used for future election aud
 `file_to_save = os.path.join("analysis", "election_results.txt")`
 In addition the .txt file analysis output can include the "time period" as part of the "Election Results" title row by including the "month/year" after the "Election Results" string in the following print code: `f"\nElection Results\n"`
 
-
+Another useful modification would be to show candidate data by county.  This could be done by including a nested loop 
